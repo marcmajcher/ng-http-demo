@@ -1,0 +1,19 @@
+{
+  "books": [{
+      "title": "All about butts",
+      "author": "Cam"
+    },
+    {
+      "title": "The joy of soylent",
+      "author": "Marc"
+    },
+    {
+      "title": "I got 99 problems, and linting is number one",
+      "author": "Oli"
+    },
+    {
+      "title": "I am too cool to write a book",
+      "author": "Louis"
+    }
+  ]
+}
