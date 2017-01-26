@@ -1,1 +1,7 @@
 <button ng-click="$ctrl.clickMe()">GET BOOKS RAAR</button>
+
+<ul>
+  <li ng-repeat="book in $ctrl.books">
+    <b>{{book.title}}</b> by {{book.author}}
+  </li>
+</ul>
